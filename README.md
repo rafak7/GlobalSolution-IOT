@@ -34,3 +34,13 @@ Copiar código
 python -m venv venv
 source venv/bin/activate  # Para Windows, use `venv\Scripts\activate`
 pip install -r requirements.txt
+
+## 🧑‍🏫 Uso
+
+1. Coloque os arquivos CSV no diretório dataset/.
+2. Execute o script principal:
+`python main.py`
+
+3. Verifique os gráficos gerados:
+📈 historical_data_with_calcofi.png: Visualiza os dados históricos.
+📊 future_predictions_rf.png: Visualiza as previsões futuras usando Random Forest.
