@@ -45,22 +45,24 @@ pip install -r requirements.txt
 📈 historical_data_with_calcofi.png: Visualiza os dados históricos.
 📊 future_predictions_rf.png: Visualiza as previsões futuras usando Random Forest.
 
-📑 Estrutura do Código
+## 📑 Estrutura do Código
 Carregamento dos Dados
 Os dados são carregados a partir de arquivos CSV. Os datasets incluem:
 
-Dados de temperatura global da NASA.
-Níveis de oxigênio-18.
-Emissões de CO2.
-Dados do programa CalCOFI.
-Preparação dos Dados
+• Dados de temperatura global da NASA.
+• Níveis de oxigênio-18.
+• Emissões de CO2.
+• Dados do programa CalCOFI.
+
+## Preparação dos Dados
 Os dados são combinados em um único DataFrame com base no ano. Colunas são convertidas para o tipo correto e valores faltantes são tratados.
 
 Treinamento dos Modelos
 Um modelo de Machine Learning é usado:
 
-Random Forest
-Previsão para Anos Futuros
+• Random Forest
+
+## Previsão para Anos Futuros
 Previsões são feitas para os próximos 10 anos (2025-2035). Alertas são gerados se os valores previstos ultrapassarem determinados limiares críticos.
 
 Visualização
