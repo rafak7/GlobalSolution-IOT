@@ -15,7 +15,6 @@ Este projeto utiliza técnicas de Machine Learning para prever condições ambie
 - `main.py`: Script principal para carregar os dados, treinar os modelos e fazer previsões.
 - `📈 historical_data_with_calcofi.png`: Gráfico dos dados históricos.
 - `📊 future_predictions_rf.png`: Gráfico das previsões futuras usando Random Forest.
-- `📉 future_predictions_knn.png`: Gráfico das previsões futuras usando KNN.
 
 ## 🛠️ Pré-requisitos
 
