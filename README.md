@@ -1,4 +1,4 @@
-# 🌊 Ocean Environmental Prediction
+# 🌊 GlobalSolution-IOT
 
 ## 📜 Descrição do Projeto
 
@@ -26,5 +26,5 @@ Este projeto utiliza técnicas de Machine Learning para prever condições ambie
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/ocean-environmental-prediction.git
-   cd ocean-environmental-prediction
+   git clone https://github.com/seu-usuario/GlobalSolution-IOT.git
+   cd GlobalSolution-IOT
