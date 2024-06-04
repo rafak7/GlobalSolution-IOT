@@ -97,6 +97,6 @@ Linguagem: Python
 Bibliotecas: pandas, matplotlib, scikit-learn
 <p align="center">
   <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas" width="100">
-  <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplotlib" width="100">
+  <img src="https://media.licdn.com/dms/image/D4D12AQFq38cGkv_oHQ/article-cover_image-shrink_423_752/0/1679493396295?e=1723075200&v=beta&t=e-cA-ge5gzIDJRcEFZgQoqIYuBUjkHJ6RhRyqXSLSHE" alt="matplotlib" width="100">
   <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" width="100">
 </p>
