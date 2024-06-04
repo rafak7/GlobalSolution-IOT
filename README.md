@@ -27,3 +27,10 @@ Este projeto utiliza técnicas de Machine Learning para prever condições ambie
    ```bash
    git clone https://github.com/seu-usuario/GlobalSolution-IOT.git
    cd GlobalSolution-IOT
+   
+2. Crie um ambiente virtual e instale as dependências:
+bash
+Copiar código
+python -m venv venv
+source venv/bin/activate  # Para Windows, use `venv\Scripts\activate`
+pip install -r requirements.txt
