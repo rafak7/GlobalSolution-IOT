@@ -44,3 +44,66 @@ pip install -r requirements.txt
 3. Verifique os gráficos gerados:
 📈 historical_data_with_calcofi.png: Visualiza os dados históricos.
 📊 future_predictions_rf.png: Visualiza as previsões futuras usando Random Forest.
+
+📑 Estrutura do Código
+Carregamento dos Dados
+Os dados são carregados a partir de arquivos CSV. Os datasets incluem:
+
+Dados de temperatura global da NASA.
+Níveis de oxigênio-18.
+Emissões de CO2.
+Dados do programa CalCOFI.
+Preparação dos Dados
+Os dados são combinados em um único DataFrame com base no ano. Colunas são convertidas para o tipo correto e valores faltantes são tratados.
+
+Treinamento dos Modelos
+Um modelo de Machine Learning é usado:
+
+Random Forest
+Previsão para Anos Futuros
+Previsões são feitas para os próximos 10 anos (2025-2035). Alertas são gerados se os valores previstos ultrapassarem determinados limiares críticos.
+
+Visualização
+Gráficos são gerados para visualizar os dados históricos e as previsões futuras.
+
+📊 Resultados Esperados
+Os resultados esperados incluem previsões precisas das condições ambientais marítimas para os próximos 10 anos. Alertas são gerados para anos críticos onde as condições podem ser prejudiciais para a vida marinha.
+
+🔍 Metodologia
+Exploração de Dados: Análise inicial dos dados para entender suas características.
+Levantamento de Hipótese: Proposição de hipóteses sobre a relação entre diferentes variáveis.
+Treinamento de Modelos: Utilização de Random Forest para treinar modelos preditivos.
+Validação e Avaliação: Validação dos modelos usando dados de teste e métricas de desempenho.
+Previsão e Geração de Alertas: Previsão das condições futuras e geração de alertas críticos.
+🧪 Exemplos de Uso
+Aqui estão alguns exemplos de como usar o script principal para gerar previsões e alertas:
+
+bash
+Copiar código
+python main.py
+📸 Capturas de Tela
+Dados Históricos
+Dados Históricos
+
+Previsões Futuras (Random Forest)
+Previsões Futuras RF
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Python-blue.svg" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/Ocean%20Conservation-Big%20Data-green.svg" alt="Ocean Conservation">
+</p>
+🛠️ Ferramentas Utilizadas
+IDE: Pycharm
+<p align="center">
+  <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="Pycharm" width="100">
+</p>
+Linguagem: Python
+<p align="center">
+  <img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python" width="150">
+</p>
+Bibliotecas: pandas, matplotlib, scikit-learn
+<p align="center">
+  <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="pandas" width="100">
+  <img src="https://matplotlib.org/_static/logo2_compressed.svg" alt="matplotlib" width="100">
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" width="100">
+</p>
