@@ -65,30 +65,21 @@ Um modelo de Machine Learning é usado:
 ## Previsão para Anos Futuros
 Previsões são feitas para os próximos 10 anos (2025-2035). Alertas são gerados se os valores previstos ultrapassarem determinados limiares críticos.
 
-Visualização
+## Visualização
 Gráficos são gerados para visualizar os dados históricos e as previsões futuras.
 
-📊 Resultados Esperados
+## 📊 Resultados Esperados
 Os resultados esperados incluem previsões precisas das condições ambientais marítimas para os próximos 10 anos. Alertas são gerados para anos críticos onde as condições podem ser prejudiciais para a vida marinha.
 
-🔍 Metodologia
-Exploração de Dados: Análise inicial dos dados para entender suas características.
-Levantamento de Hipótese: Proposição de hipóteses sobre a relação entre diferentes variáveis.
-Treinamento de Modelos: Utilização de Random Forest para treinar modelos preditivos.
-Validação e Avaliação: Validação dos modelos usando dados de teste e métricas de desempenho.
-Previsão e Geração de Alertas: Previsão das condições futuras e geração de alertas críticos.
-🧪 Exemplos de Uso
+## 🔍 Metodologia
+• Exploração de Dados: Análise inicial dos dados para entender suas características.
+• Levantamento de Hipótese: Proposição de hipóteses sobre a relação entre diferentes variáveis.
+• Treinamento de Modelos: Utilização de Random Forest para treinar modelos preditivos.
+• Validação e Avaliação: Validação dos modelos usando dados de teste e métricas de desempenho.
+• Previsão e Geração de Alertas: Previsão das condições futuras e geração de alertas críticos.
+
+## 🧪 Exemplos de Uso
 Aqui estão alguns exemplos de como usar o script principal para gerar previsões e alertas:
-
-bash
-Copiar código
-python main.py
-📸 Capturas de Tela
-Dados Históricos
-Dados Históricos
-
-Previsões Futuras (Random Forest)
-Previsões Futuras RF
 
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-Python-blue.svg" alt="Machine Learning">
