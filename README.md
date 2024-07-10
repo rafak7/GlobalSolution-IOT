@@ -78,6 +78,9 @@ Os resultados esperados incluem previsões precisas das condições ambientais m
 • Validação e Avaliação: Validação dos modelos usando dados de teste e métricas de desempenho.
 • Previsão e Geração de Alertas: Previsão das condições futuras e geração de alertas críticos.
 
+## 🔗 Link Download do projeto: 
+https://mega.nz/file/VilCQDKK#dc1STisOnkA3WuxxFLCSv4FJkchezfpGpSuMNIaShQA
+
 ## 🧪 Exemplos de Uso
 Aqui estão alguns exemplos de como usar o script principal para gerar previsões e alertas:
 
